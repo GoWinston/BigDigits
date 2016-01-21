@@ -1,0 +1,26 @@
+BigBoard	KEYWORD1
+begin	KEYWORD2
+
+displayChar	KEYWORD2
+font	KEYWORD2
+
+displayNum	KEYWORD2
+spinNum	KEYWORD2
+
+displayWord	KEYWORD2
+spinWord	KEYWORD2
+
+setDP	KEYWORD2
+
+flash	KEYWORD2
+spinF	KEYWORD2
+spinB	KEYWORD2
+
+refresh	KEYWORD2
+clear	KEYWORD2
+reset	KEYWORD2
+
+
+spinB	KEYWORD2
+spinB	KEYWORD2
+spinB	KEYWORD2
