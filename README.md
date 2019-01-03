@@ -6,13 +6,17 @@ Two PCB designs are included, one with four digits on one board and another with
 
 The hardware and library support four channels. 
 
-Boards are availible at OshPark
+<hr>
 
-4 Channel: https://oshpark.com/shared_projects/9ZOlH1Lw
-1 Channel: https://oshpark.com/shared_projects/VTMd3b0f
+Boards are availible at OshPark <br>
+4 Channel: https://oshpark.com/shared_projects/9ZOlH1Lw <br>
+1 Channel: https://oshpark.com/shared_projects/VTMd3b0f <br>
 
-Connect to the Arduino with the SparkFun RJ45 Breakout 
-https://www.sparkfun.com/products/716
+<hr>
+
+Connect to the Arduino with the SparkFun RJ45 Breakout <br>
+https://www.sparkfun.com/products/716 <br>
+<hr>
 
 ![4 channel board](https://github.com/GoWinston/BigDigits/blob/master/PCB's/Auction_Multi_RevA_Final/Multi-Render.jpeg "4 channel board")
 
