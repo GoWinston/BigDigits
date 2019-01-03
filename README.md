@@ -6,6 +6,11 @@ Two PCB designs are included, one with four digits on one board and another with
 
 The hardware and library support four channels. 
 
+Update 1/3/19
+Boards are availible at OshPark
+4 Channel: https://oshpark.com/shared_projects/9ZOlH1Lw
+1 Channel: https://oshpark.com/shared_projects/VTMd3b0f
+
 ![4 channel board](https://github.com/GoWinston/BigDigits/blob/master/PCB's/Auction_Multi_RevA_Final/Multi-Render.jpeg "4 channel board")
 
 ![1 channel board](https://github.com/GoWinston/BigDigits/blob/master/PCB's/Auction_Single_RevB_Final/Single-Render.jpeg "1 channel board")
