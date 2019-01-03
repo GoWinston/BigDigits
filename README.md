@@ -16,6 +16,18 @@ Boards are availible at OshPark <br>
 
 Connect to the Arduino with the SparkFun RJ45 Breakout <br>
 https://www.sparkfun.com/products/716 <br>
+<br>
+```
+Ethernet | Arduino | Assignment
+    1         13      Clock - SCK - SHCP
+    2         11      Data - MOSI - DS
+    3         9       Digit D  X---  Thousands
+    4         6       Digit A  ---X  Units
+    5         8       Digit C  -X--  Hundreds
+    6         7       Digit B  --X-  Tens
+    7         +5      VCC
+    8         GND     GND
+```
 <hr>
 
 ![4 channel board](https://github.com/GoWinston/BigDigits/blob/master/PCB's/Auction_Multi_RevA_Final/Multi-Render.jpeg "4 channel board")
