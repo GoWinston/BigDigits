@@ -33,9 +33,15 @@ Ethernet | Arduino | Assignment
 ```
 <hr>
 
-The power for the big displays goes directly into the PCBs and is seperate from the logic power on the Arduino which travels over the ethernet cable
+The power for the big displays goes directly into the PCBs and is seperate from the logic power on the Arduino which travels over the ethernet cable<br>
 <hr>
 
 ![4 channel board](https://github.com/GoWinston/BigDigits/blob/master/PCB's/Auction_Multi_RevA_Final/Multi-Render.jpeg "4 channel board")
 
 ![1 channel board](https://github.com/GoWinston/BigDigits/blob/master/PCB's/Auction_Single_RevB_Final/Single-Render.jpeg "1 channel board")
+
+<hr>
+Individual segments of each seven-segment display are titled in the [standard structure](https://en.wikipedia.org/wiki/Seven-segment_display/)<br>
+
+![seven segment display titles](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/7_Segment_Display_with_Labeled_Segments.svg/220px-7_Segment_Display_with_Labeled_Segments.svg.png)<br>
+<hr>
