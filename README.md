@@ -10,7 +10,10 @@ The hardware and library support four channels.
 
 Boards are availible at OshPark <br>
 4 Channel: https://oshpark.com/shared_projects/9ZOlH1Lw <br>
+Parts List:   BigDigits/PCB's/1 Digit PCB Materials Digikey.csv <br>
+<br>
 1 Channel: https://oshpark.com/shared_projects/VTMd3b0f <br>
+Parts List:   BigDigits/PCB's/1 Digit PCB Materials Digikey.csv <br>
 
 <hr>
 
