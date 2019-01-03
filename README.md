@@ -1,6 +1,6 @@
 # The Big Board
 
-This is an Arduino powered system to allow the construction of giant seven segment displays.
+This is an Arduino powered system to allow the construction of giant seven segment displays, up to 50V 0.5A per segment.
 
 Two PCB designs are included, one with four digits on one board and another with a single digit per board.  
 
