@@ -14,7 +14,7 @@ Boards are availible at OshPark <br>
 
 <hr>
 
-Connect to the Arduino with the SparkFun RJ45 Breakout <br>
+Connect to the Arduino with a standard ethernet cable and the SparkFun RJ45 Breakout <br>
 https://www.sparkfun.com/products/716 <br>
 <br>
 ```
@@ -28,6 +28,9 @@ Ethernet | Arduino | Assignment
     7         +5      VCC
     8         GND     GND
 ```
+<hr>
+
+The power for the big displays goes directly into the PCBs and is seperate from the logic power on the Arduino which travels over the ethernet cable
 <hr>
 
 ![4 channel board](https://github.com/GoWinston/BigDigits/blob/master/PCB's/Auction_Multi_RevA_Final/Multi-Render.jpeg "4 channel board")
