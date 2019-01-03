@@ -2,6 +2,8 @@
 
 This is an Arduino powered system to allow the construction of giant seven segment displays, up to 50V 0.5A per segment.
 
+The library workes with any Arduino using the SPI protocol, allowing a 4 digit display (32) segements to be remotely connected via a single ethernet cable.
+
 Two PCB designs are included, one with four digits on one board and another with a single digit per board.  
 
 The hardware and library support four channels. 
