@@ -12,10 +12,10 @@ The hardware and library support four channels.
 
 Boards are availible at OshPark <br>
 4 Channel: https://oshpark.com/shared_projects/9ZOlH1Lw <br>
-Digikey parts list [here](https://github.com/GoWinston/BigDigits/blob/master/PCB's/1%20Digit%20PCB%20Materials%20Digikey.csv) <br>
+Digikey parts list [here](https://github.com/GoWinston/BigDigits/blob/master/PCB's/4%20Digit%20PCB%20Materials%20Digikey.csv)<br>
 <br>
 1 Channel: https://oshpark.com/shared_projects/VTMd3b0f <br>
-Digikey parts list [here](https://github.com/GoWinston/BigDigits/blob/master/PCB's/4%20Digit%20PCB%20Materials%20Digikey.csv) <br>
+Digikey parts list [here](https://github.com/GoWinston/BigDigits/blob/master/PCB's/1%20Digit%20PCB%20Materials%20Digikey.csv)<br>
 
 <hr>
 
