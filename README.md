@@ -36,6 +36,8 @@ Ethernet | Arduino | Assignment
 <hr>
 
 The power for the big displays goes directly into the PCBs and is seperate from the logic power on the Arduino which travels over the ethernet cable<br>
+<br>
+Power each segement from V+ --> LED segment lights --> Control Board <br>
 <hr>
 
 ![4 channel board](https://github.com/GoWinston/BigDigits/blob/master/PCB's/Auction_Multi_RevA_Final/Multi-Render.jpeg "4 channel board")
